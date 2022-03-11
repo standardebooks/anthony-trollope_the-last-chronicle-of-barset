@@ -1,2 +1,31 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+#chapter-18 blockquote p,
+#chapter-37 blockquote p{
+	text-align: center;
+	text-indent: 0;
+}
+
+#chapter-18 blockquote p:first-child,
+#chapter-37 blockquote p:first-child{
+	font-variant: small-caps;
+}
+
+#chapter-18 blockquote p:last-child,
+#chapter-37 blockquote p:last-child{
+	font-style: italic;
+}
+
+#chapter-67 blockquote p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+/* this is for a letter in which the text explictly says a passage is underscored */
+.underscored{
+	text-decoration: underline;
+	text-decoration-style: solid;
+}
+
