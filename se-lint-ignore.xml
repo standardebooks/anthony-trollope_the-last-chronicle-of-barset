@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-65.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Miss Van Sier’s name is capitalised that way throughout the book and so flagging it as a titlecase error in the chapter title is incorrect. Note that her mother is often referrred to as simply “Mrs. Van.”</reason>
+		</ignore>
+	</file>
+	<file path="chapter-72.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>“The Dragon of Wantly” is the full title of the inn, so flagging the capitalised “the” as a titlecase error in the chapter title is incorrect.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
