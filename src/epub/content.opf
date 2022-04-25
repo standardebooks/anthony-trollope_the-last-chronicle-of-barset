@@ -56,14 +56,14 @@
 		<dc:description id="description">An impoverished clergyman is accused of theft, and this disgrace leads to great suffering by both his family and those that love them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is the sixth, and as its title would suggest, the final novel in the &lt;i&gt;&lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt;&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt;. Like the earlier books, it was serialised in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in earlier novels of the series, and rounds off a number of story threads which arose in earlier books.&lt;/p&gt;
-			&lt;p&gt;The primary storyline of &lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is concerned with the dedicated and sincere Reverend Josiah Crawley, whose ecclesiastical salary is too low to support him and his family in much more than abject poverty, and thus he is coninually in debt. As the book opens, Crawley has been accused of passing a cheque for twenty pounds, a cheque not made out to himself and whose possession he cannot account for. The writer of the cheque claims that he lost it while visiting Crawley. The entire neighbourhood of Barchester is shocked and many cannot believe that Crawley would become a thief. The accusation has significant implications for many of the other characters, including Major Grantly, the son of Archdeacon Grantly, who has fallen in love with Crawley’s daughter Grace.&lt;/p&gt; 
+			&lt;p&gt;The primary storyline of &lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is concerned with the Reverend Josiah Crawley. Although he is a dedicated and sincere clergyman, his ecclesiastical salary is too low to support him and his family in much more than abject poverty, and thus he is coninually in debt. As the book opens, Crawley has been accused of passing a cheque for twenty pounds, a cheque not made out to himself and whose possession he cannot account for. The writer of the cheque claims that he lost it while visiting Crawley. The entire neighbourhood of Barchester is shocked and many cannot believe that Crawley would become a thief. The accusation has significant implications for many of the other characters, including Major Grantly, the son of Archdeacon Grantly, who has fallen in love with Crawley’s daughter Grace.&lt;/p&gt; 
 			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom, in the 1990s.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3045</dc:source>
 		<dc:source>https://archive.org/details/lastchronicleofb02trolrich</dc:source>
 		<dc:source>https://archive.org/details/lastchronicleofb01trolrich</dc:source>
-		<meta property="se:production-notes">Note that the Internet Archive have misnumbered the sources listed here. Volume 1 has the filename lastchronicleofb02trolrich and volume 2 has the filename lastchronicleofb01trolrich.</meta>
+		<meta property="se:production-notes">Note that the Internet Archive have misnumbered the sources listed here. Volume 1 has the filename lastchronicleofb02trolrich and volume 2 has the filename lastchronicleofb01trolrich. / Note that find-mismatched-dashes flags ‘art-work’ in chapter 38 but this should be left as is (here it’s a verb not a noun)</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Last_Chronicle_of_Barset</meta>
@@ -73,7 +73,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Samuel Henry Baker</dc:contributor>
 		<meta property="file-as" refines="#artist">Baker, Samuel Henry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Samuel_Henry_Baker</meta>
