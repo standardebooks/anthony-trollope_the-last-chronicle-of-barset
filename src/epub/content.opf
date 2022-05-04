@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-05-04T21:52:13Z</dc:date>
+		<meta property="dcterms:modified">2022-05-04T21:52:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,19 +53,19 @@
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Barsetshire</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">An impoverished clergyman is accused of theft, and this disgrace leads to great suffering by both his family and those that love them.</dc:description>
+		<dc:description id="description">An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is the sixth, and as its title would suggest, the final novel in the &lt;i&gt;&lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt;&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope&lt;/a&gt;. Like the earlier books, it was serialised in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in earlier novels of the series, and rounds off a number of story threads which arose in earlier books.&lt;/p&gt;
-			&lt;p&gt;The primary storyline of &lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is concerned with the Reverend Josiah Crawley. As the book opens, Crawley has been accused of passing a cheque for twenty pounds, a cheque not made out to himself and whose possession he cannot account for. The accusation has significant implications for many of the other characters.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom, in the 1990s.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is the sixth, and as its title would suggest, final novel in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt;. Like the earlier books, it was serialized in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in series’ earlier novels, and rounds off a number of story threads that those novels began.&lt;/p&gt;
+			&lt;p&gt;The primary storyline is concerned with the Reverend Josiah Crawley, who, as the book opens, has been accused of passing a check for twenty pounds, a check not made out to himself and whose possession he cannot account for. The accusation has significant implications for many of the other characters.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom in the 1990s.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3045</dc:source>
 		<dc:source>https://archive.org/details/lastchronicleofb02trolrich</dc:source>
 		<dc:source>https://archive.org/details/lastchronicleofb01trolrich</dc:source>
 		<meta property="se:production-notes">Note that the Internet Archive have misnumbered the sources listed here. Volume 1 has the filename lastchronicleofb02trolrich and volume 2 has the filename lastchronicleofb01trolrich. / Note that find-mismatched-dashes flags ‘art-work’ in chapter 38 but this should be left as is (here it’s a verb not a noun) / Typogrify makes changes to datelines because of the obscured days of the month. Do not accept these changes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">349343</meta>
+		<meta property="se:reading-ease.flesch">81.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Last_Chronicle_of_Barset</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-last-chronicle-of-barset</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -93,6 +93,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
