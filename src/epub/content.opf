@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anthony-trollope/the-last-chronicle-of-barset</dc:identifier>
 		<dc:date>2022-05-04T21:52:13Z</dc:date>
@@ -55,12 +55,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Chronicles of Barsetshire</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An impoverished clergyman is accused of theft, and this disgrace leads to great suffering for both his family and those that love them.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; is the sixth, and as its title would suggest, final novel in &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Chronicles of Barsetshire&lt;/a&gt;. Like the earlier books, it was serialized in &lt;i&gt;Cornhill Magazine&lt;/i&gt;, with a hardcover edition coming out in 1867. It brings together many of the characters who had appeared in series’ earlier novels, and rounds off a number of story threads that those novels began.&lt;/p&gt;
 			&lt;p&gt;The primary storyline is concerned with the Reverend Josiah Crawley, who, as the book opens, has been accused of passing a check for twenty pounds, a check not made out to himself and whose possession he cannot account for. The accusation has significant implications for many of the other characters.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Last Chronicle of Barset&lt;/i&gt; was made into a television series released by the BBC in 1959. Along with the other novels in the series, it was made into a radio play released by Radio 4 in the United Kingdom in the 1990s.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3045</dc:source>
 		<dc:source>https://archive.org/details/lastchronicleofb02trolrich</dc:source>
